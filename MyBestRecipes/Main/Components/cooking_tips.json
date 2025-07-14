@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Rest Your Meat",
+    "short_description": "Let cooked meat sit before cutting into it.",
+    "long_description": "Always let your meat rest after cooking. This allows the juices, which have been driven to the center by the heat, to redistribute throughout the meat. A general rule is to rest it for 5-10 minutes for smaller cuts like steaks or chicken breasts, and 20-30 minutes for larger roasts. This simple step ensures a much more tender and flavorful result."
+  },
+  {
+    "title": "Read the Recipe First",
+    "short_description": "Read the entire recipe from start to finish before you begin.",
+    "long_description": "This seems obvious, but many skip it. Reading the recipe thoroughly helps you understand the flow, gather all your ingredients (mise en place), and notice any steps that require marinating or chilling time. It prevents surprises and helps you cook more efficiently and with less stress."
+  },
+  {
+    "title": "Don't Overcrowd the Pan",
+    "short_description": "Give your food space in the pan to ensure proper browning.",
+    "long_description": "When you put too much food in a pan at once, it steams instead of sears. This prevents the Maillard reaction, which is responsible for the delicious brown crust and complex flavors. If you need to cook a large amount, do it in batches. A golden-brown result is always worth the extra few minutes."
+  },
+  {
+    "title": "Use a Sharp Knife",
+    "short_description": "A sharp knife is safer and more effective than a dull one.",
+    "long_description": "A dull knife requires more pressure to cut, increasing the chances of it slipping and causing an injury. A sharp knife, on the other hand, glides through food easily, giving you cleaner cuts and more control. Invest in a decent knife sharpener and learn how to use it regularly."
+  },
+  {
+    "title": "Salt Your Pasta Water",
+    "short_description": "Generously salt your pasta water to flavor the pasta from within.",
+    "long_description": "This is the only opportunity you have to season the pasta itself. The water should 'taste like the sea'. Don't worry, most of the salt goes down the drain, but what's absorbed by the pasta makes a huge difference in the final dish's flavor. Use about 1-2 tablespoons of salt for every 4-6 quarts of water."
+  },
+  {
+    "title": "Control Your Heat",
+    "short_description": "Learn to manage the heat on your stove for better results.",
+    "long_description": "Don't be afraid to adjust the flame or temperature throughout the cooking process. Preheat your pan properly before adding oil, but lower the heat if things are browning too quickly. Mastering heat control is a key skill that separates amateur cooks from pros."
+  },
+  {
+    "title": "Save Your Pasta Water",
+    "short_description": "The starchy water is liquid gold for creating silky sauces.",
+    "long_description": "Before draining your pasta, reserve a cup of the starchy, salty cooking water. When you toss your pasta with the sauce, add a splash of this water. The starch helps the sauce cling to the pasta and emulsifies with the fat in the sauce, creating a smooth, creamy, and restaurant-quality consistency."
+  },
+  {
+    "title": "Toast Your Nuts and Spices",
+    "short_description": "Toasting brings out the natural oils and deepens flavor.",
+    "long_description": "Whether you're using whole spices or nuts, toasting them in a dry pan over medium heat for a few minutes until fragrant releases their essential oils. This simple action dramatically intensifies their flavor and aroma, adding a new layer of complexity to your dishes."
+  },
+  {
+    "title": "Use a Damp Towel Under Your Cutting Board",
+    "short_description": "Prevent your cutting board from slipping for safer chopping.",
+    "long_description": "A sliding cutting board is a major safety hazard. To secure it, simply place a damp paper towel or a thin kitchen towel underneath it. The moisture creates friction and anchors the board firmly to your countertop, allowing you to chop with confidence."
+  },
+  {
+    "title": "Finish with Acidity",
+    "short_description": "A splash of lemon juice or vinegar can brighten a dish.",
+    "long_description": "If your dish tastes flat or like it's missing something, it probably needs a touch of acid. A squeeze of fresh lemon or lime juice, or a dash of vinegar, added right at the end of cooking can wake up all the flavors and make the dish taste more vibrant and balanced. This is especially true for rich, fatty, or earthy dishes."
+  },
+  {
+    "title": "Pat Meat Dry",
+    "short_description": "Dry the surface of meat before searing for a better crust.",
+    "long_description": "Moisture is the enemy of a good sear. Before cooking steaks, chicken, or fish, pat the surface completely dry with paper towels. A dry surface allows the pan's heat to directly brown the protein, creating a delicious crust. If the surface is wet, the heat will just steam the meat."
+  },
+  {
+    "title": "Room Temperature Ingredients for Baking",
+    "short_description": "Using room temperature eggs and butter is key for smooth batters.",
+    "long_description": "Room temperature ingredients, especially butter and eggs, form an emulsion that traps air. This trapped air expands when heated in the oven, resulting in a light and fluffy baked good. Cold ingredients don't combine as smoothly, which can lead to dense, heavy cakes and muffins."
+  },
+  {
+    "title": "Don't Fear Salt",
+    "short_description": "Season your food properly at different stages of cooking.",
+    "long_description": "Salt is a flavor enhancer. Seasoning your food in layers—a little during sautéing, a little in the sauce, a little at the end—builds a deeper, more complex flavor profile than just adding a lot of salt at the table. Taste as you go to ensure you don't over-salt."
+  },
+  {
+    "title": "Mise en Place",
+    "short_description": "Organize and prep all ingredients before you start cooking.",
+    "long_description": "Mise en place is a French term meaning 'everything in its place'. It involves chopping all your vegetables, measuring all your spices, and having everything ready to go before you turn on the heat. This makes the actual cooking process smooth, fast, and stress-free."
+  },
+  {
+    "title": "Test Oil with a Wooden Spoon",
+    "short_description": "Check if your oil is hot enough for frying without a thermometer.",
+    "long_description": "To see if your oil is ready for deep-frying or pan-frying, dip the handle of a wooden spoon or a chopstick into it. If the oil starts to bubble steadily around the wood, it's hot enough. If it bubbles furiously, it's too hot. If there are no bubbles, it's not hot enough yet."
+  },
+  {
+    "title": "Deglaze Your Pan",
+    "short_description": "Use liquid to scrape up the flavorful browned bits in the pan.",
+    "long_description": "After searing meat, you'll see browned bits (called 'fond') stuck to the bottom of the pan. This is concentrated flavor! Pour in a little liquid like wine, broth, or even water, and use a wooden spoon to scrape them up. This process, called deglazing, forms the base of an incredibly rich pan sauce."
+  },
+  {
+    "title": "Temper Eggs",
+    "short_description": "Slowly introduce hot liquid to eggs to prevent them from scrambling.",
+    "long_description": "When adding eggs to a hot mixture (like for a custard or carbonara), you must temper them. Slowly whisk a small amount of the hot liquid into the beaten eggs. This gently raises their temperature. Then, you can safely add the warmed egg mixture back into the main pot without it turning into scrambled eggs."
+  },
+  {
+    "title": "Measure Flour Correctly",
+    "short_description": "Spoon flour into your measuring cup instead of scooping.",
+    "long_description": "Scooping flour directly from the bag with a measuring cup compacts it, resulting in you using too much flour. This can make baked goods dry and tough. For accurate measurement, use a spoon to fluff up the flour, then spoon it into your measuring cup and level it off with a straight edge."
+  },
+  {
+    "title": "Taste As You Go",
+    "short_description": "Constantly taste your food during the cooking process.",
+    "long_description": "You can't know if a dish needs more salt, acid, or spice if you don't taste it. Use a clean spoon and taste at various stages. This allows you to make adjustments along the way and have full control over the final flavor of your dish."
+  },
+  {
+    "title": "The 'Claw' Grip",
+    "short_description": "Curl your fingertips to protect them when chopping.",
+    "long_description": "When holding food with your non-knife hand, curl your fingertips under, like you're making a claw. Your knuckles should be pointing out. Guide the side of the knife blade against your knuckles as you chop. This keeps your fingertips safely out of the way and provides a stable guide for the knife."
+  }
+]

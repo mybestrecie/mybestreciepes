@@ -1,0 +1,1779 @@
+[
+    {
+        "id": "1",
+        "name": "Classic Tiramisu",
+        "image": "A close-up of a classic Italian tiramisu in a glass dish, layers of coffee-soaked ladyfingers and creamy mascarpone, dusted with cocoa powder on top.",
+        "description": "Indulge in this iconic Italian dessert with layers of espresso-soaked ladyfingers, rich mascarpone, and a hint of cocoa. This Tiramisu is creamy, luxurious, and perfect for any special occasion.",
+        "cookingTime": "30 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Ladyfingers 200g",
+            "Mascarpone cheese 250g",
+            "Heavy cream 120ml",
+            "Sugar 100g",
+            "Egg yolks 4",
+            "Espresso coffee 1 cup",
+            "Cocoa powder for dusting"
+        ],
+        "cookingSteps": [
+            "Step 1: Brew the espresso and let it cool. Set aside.",
+            "Step 2: In a bowl, whisk egg yolks and sugar until light and creamy.",
+            "Step 3: Add mascarpone to the egg mixture and fold gently to combine.",
+            "Step 4: In a separate bowl, whip the cream until stiff peaks form and fold into the mascarpone mixture.",
+            "Step 5: Dip each ladyfinger briefly in espresso, then layer in a dish.",
+            "Step 6: Spread half of the mascarpone mixture over the ladyfingers.",
+            "Step 7: Repeat with another layer of ladyfingers and mascarpone.",
+            "Step 8: Dust the top with cocoa powder and refrigerate for 4 hours before serving. StartTimer"
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "2",
+        "name": "Molten Chocolate Lava Cake",
+        "image": "A decadent chocolate lava cake with a gooey center, dusted with powdered sugar and topped with a scoop of vanilla ice cream.",
+        "description": "This Molten Chocolate Lava Cake offers a rich, molten chocolate center that flows like lava when cut into. Perfectly soft on the outside and gooey on the inside, it’s a chocolate lover’s dream.",
+        "cookingTime": "20 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Dark chocolate 100g",
+            "Butter 100g",
+            "Sugar 100g",
+            "Eggs 2",
+            "Flour 50g",
+            "Vanilla ice cream for serving",
+            "Powdered sugar for dusting"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 200°C (400°F) and grease small ramekins.",
+            "Step 2: Melt the chocolate and butter together in a double boiler, stirring until smooth.",
+            "Step 3: Whisk the eggs and sugar until light and fluffy.",
+            "Step 4: Fold the chocolate mixture into the egg mixture.",
+            "Step 5: Add the flour and mix until just combined.",
+            "Step 6: Pour the batter into ramekins and bake for 10-12 minutes. StartTimer",
+            "Step 7: Allow cakes to cool slightly, then serve with vanilla ice cream and a dusting of powdered sugar."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "3",
+        "name": "Lemon Cheesecake Bars",
+        "image": "Square lemon cheesecake bars with a graham cracker crust, topped with a dusting of powdered sugar and fresh lemon zest.",
+        "description": "These tangy Lemon Cheesecake Bars are the perfect balance of creamy, sweet, and zesty. With a buttery graham cracker crust and silky lemon filling, they are refreshingly delicious.",
+        "cookingTime": "40 minutes",
+        "servings": "9 servings",
+        "ingredients": [
+            "Graham crackers 150g",
+            "Butter 80g, melted",
+            "Cream cheese 250g",
+            "Sugar 150g",
+            "Eggs 2",
+            "Lemon juice 1/4 cup",
+            "Lemon zest 1 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 175°C (350°F) and line a baking dish with parchment paper.",
+            "Step 2: Mix crushed graham crackers with melted butter and press into the baking dish.",
+            "Step 3: In a bowl, beat the cream cheese and sugar until smooth.",
+            "Step 4: Add eggs, lemon juice, and zest, mixing until fully combined.",
+            "Step 5: Pour the filling over the crust and bake for 25-30 minutes until set. StartTimer",
+            "Step 6: Let cool, then refrigerate for 2 hours before slicing and serving. StartTimer"
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "4",
+        "name": "New York Cheesecake",
+        "image": "A creamy New York-style cheesecake with a golden-brown crust, topped with fresh strawberries and a drizzle of strawberry sauce.",
+        "description": "This classic New York Cheesecake has a smooth, dense texture with a buttery graham cracker crust, topped with fresh strawberries for the perfect balance of richness and freshness.",
+        "cookingTime": "1 hour 30 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Graham crackers 200g",
+            "Butter 100g, melted",
+            "Cream cheese 600g",
+            "Sugar 200g",
+            "Eggs 3",
+            "Sour cream 1 cup",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 160°C (325°F) and line a springform pan with parchment paper.",
+            "Step 2: Mix graham cracker crumbs with melted butter and press into the pan.",
+            "Step 3: In a large bowl, beat cream cheese and sugar until smooth.",
+            "Step 4: Add eggs one at a time, beating after each addition.",
+            "Step 5: Stir in sour cream and vanilla extract until combined.",
+            "Step 6: Pour batter over crust and bake for 1 hour. StartTimer",
+            "Step 7: Turn off oven, leave cheesecake inside for 30 minutes, then cool and refrigerate for 4 hours. StartTimer"
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "5",
+        "name": "Raspberry Macarons",
+        "image": "A plate of pink raspberry macarons with a smooth shell and creamy raspberry filling, garnished with fresh raspberries and mint.",
+        "description": "Delicate, almond-flavored macarons with a burst of fresh raspberry filling, creating a delightful balance of sweetness and tartness in every bite.",
+        "cookingTime": "1 hour",
+        "servings": "24 macarons",
+        "ingredients": [
+            "Almond flour 120g",
+            "Powdered sugar 200g",
+            "Egg whites 3",
+            "Granulated sugar 50g",
+            "Raspberry jam 1/4 cup"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 150°C (300°F) and line baking sheets with parchment paper.",
+            "Step 2: Sift almond flour and powdered sugar into a bowl.",
+            "Step 3: Whip egg whites until foamy, then gradually add granulated sugar until stiff peaks form.",
+            "Step 4: Fold in almond mixture until smooth and glossy.",
+            "Step 5: Pipe rounds onto baking sheets and let sit for 30 minutes to form a skin. StartTimer",
+            "Step 6: Bake for 15-18 minutes until set. StartTimer",
+            "Step 7: Cool completely, then sandwich with raspberry jam."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "6",
+        "name": "Cinnamon Rolls",
+        "image": "A tray of warm cinnamon rolls with golden-brown tops, drizzled with creamy vanilla glaze and topped with cinnamon dust.",
+        "description": "Soft, fluffy cinnamon rolls filled with a cinnamon-sugar mixture and drizzled with vanilla glaze, these rolls are a warm, comforting treat perfect for any occasion.",
+        "cookingTime": "2 hours",
+        "servings": "12 rolls",
+        "ingredients": [
+            "Flour 500g",
+            "Milk 250ml, warm",
+            "Butter 100g, melted",
+            "Sugar 100g",
+            "Yeast 2 tsp",
+            "Cinnamon 1 tbsp",
+            "Brown sugar 100g"
+        ],
+        "cookingSteps": [
+            "Step 1: Mix warm milk, yeast, and sugar, let sit for 10 minutes until foamy. StartTimer",
+            "Step 2: Add flour and melted butter, knead into a soft dough.",
+            "Step 3: Let the dough rise for 1 hour until doubled. StartTimer",
+            "Step 4: Roll out the dough, spread with butter, cinnamon, and brown sugar.",
+            "Step 5: Roll up, slice into rolls, and place in a baking pan.",
+            "Step 6: Let rise for 30 minutes. StartTimer",
+            "Step 7: Bake at 180°C (350°F) for 25 minutes until golden."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "7",
+        "name": "Pavlova",
+        "image": "A large Pavlova with a crispy meringue shell, topped with whipped cream, fresh strawberries, and kiwi slices.",
+        "description": "This Pavlova has a crisp meringue crust and a soft marshmallow center, topped with fresh whipped cream and colorful fruits like strawberries and kiwi.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Egg whites 4",
+            "Sugar 200g",
+            "Cornstarch 1 tsp",
+            "Vinegar 1 tsp",
+            "Whipped cream 1 cup",
+            "Fresh berries 1 cup"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 120°C (250°F) and line a baking sheet with parchment.",
+            "Step 2: Beat egg whites until stiff peaks form, gradually adding sugar.",
+            "Step 3: Fold in cornstarch and vinegar.",
+            "Step 4: Spread meringue into a circle on the parchment.",
+            "Step 5: Bake for 1 hour, then let cool in the oven. StartTimer",
+            "Step 6: Top with whipped cream and berries before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "8",
+        "name": "Crème Brûlée",
+        "image": "A classic crème brûlée with a caramelized sugar top, served in a small white ramekin with a spoon and vanilla pod garnish.",
+        "description": "Smooth, creamy vanilla custard topped with a crunchy caramelized sugar layer, Crème Brûlée is the ultimate indulgence for any dessert lover.",
+        "cookingTime": "50 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Heavy cream 500ml",
+            "Vanilla bean 1",
+            "Sugar 100g",
+            "Egg yolks 5"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 150°C (300°F).",
+            "Step 2: Heat cream with vanilla bean until it simmers, then cool slightly.",
+            "Step 3: Whisk egg yolks with sugar until light.",
+            "Step 4: Gradually add warm cream to the yolks.",
+            "Step 5: Pour into ramekins and bake in a water bath for 35-40 minutes until set. StartTimer",
+            "Step 6: Refrigerate, then caramelize sugar on top with a torch before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "9",
+        "name": "Banoffee Pie",
+        "image": "A luscious banoffee pie with layers of crushed biscuit crust, caramel, fresh bananas, and whipped cream, garnished with chocolate shavings.",
+        "description": "A decadent English dessert with layers of buttery biscuit crust, creamy toffee, fresh bananas, and fluffy whipped cream.",
+        "cookingTime": "30 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Digestive biscuits 200g",
+            "Butter 100g, melted",
+            "Condensed milk 400g",
+            "Bananas 3",
+            "Whipped cream 1 cup",
+            "Chocolate shavings for garnish"
+        ],
+        "cookingSteps": [
+            "Step 1: Crush biscuits and mix with melted butter, press into a pie dish.",
+            "Step 2: Boil condensed milk to make toffee, then pour over crust and cool. StartTimer",
+            "Step 3: Slice bananas and layer on top of the toffee.",
+            "Step 4: Spread whipped cream over the bananas and garnish with chocolate shavings."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "10",
+        "name": "Strawberry Shortcake",
+        "image": "A classic strawberry shortcake with fluffy biscuit layers, fresh strawberries, and whipped cream, topped with a mint leaf for garnish.",
+        "description": "Delight in the fresh and fruity layers of Strawberry Shortcake. This dessert combines fluffy, buttery biscuits with juicy strawberries and a light, airy whipped cream for a timeless, refreshing treat.",
+        "cookingTime": "30 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Flour 250g",
+            "Baking powder 1 tbsp",
+            "Salt 1/4 tsp",
+            "Butter 85g, cold and cubed",
+            "Milk 180ml",
+            "Strawberries 500g, sliced",
+            "Sugar 50g",
+            "Whipped cream 1 cup"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 200°C (400°F).",
+            "Step 2: Mix flour, baking powder, and salt in a bowl.",
+            "Step 3: Cut in the butter until the mixture resembles coarse crumbs.",
+            "Step 4: Stir in milk until just combined.",
+            "Step 5: Drop spoonfuls of dough onto a baking sheet and bake for 12-15 minutes or until golden. StartTimer",
+            "Step 6: In a separate bowl, mix strawberries with sugar and let sit for 10 minutes.",
+            "Step 7: Split biscuits, layer with strawberries and whipped cream, then top with the other half."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "11",
+        "name": "Chocolate Mousse",
+        "image": "A rich and creamy chocolate mousse in a glass, garnished with chocolate shavings and fresh raspberries.",
+        "description": "This Chocolate Mousse is pure decadence with a light, fluffy texture and deep chocolate flavor. It’s the perfect dessert for chocolate lovers.",
+        "cookingTime": "15 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Dark chocolate 150g",
+            "Heavy cream 300ml",
+            "Egg whites 2",
+            "Sugar 50g",
+            "Raspberries for garnish",
+            "Chocolate shavings for garnish"
+        ],
+        "cookingSteps": [
+            "Step 1: Melt the chocolate in a heatproof bowl over simmering water, then let cool slightly.",
+            "Step 2: In a separate bowl, whip the cream until soft peaks form.",
+            "Step 3: In another bowl, beat egg whites until soft peaks form, then gradually add sugar and beat until stiff peaks form.",
+            "Step 4: Fold the melted chocolate into the whipped cream, then fold in the egg whites.",
+            "Step 5: Spoon into serving glasses and refrigerate for 1 hour before serving. StartTimer",
+            "Step 6: Garnish with raspberries and chocolate shavings."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "12",
+        "name": "Apple Crumble",
+        "image": "A warm apple crumble with a golden, crumbly topping, served in a bowl with a scoop of vanilla ice cream.",
+        "description": "This Apple Crumble combines tender, cinnamon-spiced apples with a buttery, crunchy topping for a cozy and comforting dessert.",
+        "cookingTime": "45 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Apples 5, peeled and sliced",
+            "Sugar 100g",
+            "Cinnamon 1 tsp",
+            "Flour 150g",
+            "Butter 100g, cold and cubed",
+            "Brown sugar 50g",
+            "Vanilla ice cream for serving"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F).",
+            "Step 2: In a bowl, mix sliced apples with half the sugar and cinnamon, then place in a baking dish.",
+            "Step 3: In another bowl, mix flour, brown sugar, and remaining sugar.",
+            "Step 4: Cut in the butter until the mixture resembles coarse crumbs.",
+            "Step 5: Sprinkle the crumble topping over the apples.",
+            "Step 6: Bake for 35-40 minutes or until golden and bubbly. StartTimer",
+            "Step 7: Serve warm with vanilla ice cream."
+        ],
+        "category": "apple"
+    },
+    {
+        "id": "13",
+        "name": "Panna Cotta",
+        "image": "A creamy panna cotta in a small glass, topped with a vibrant berry compote and a sprig of mint.",
+        "description": "This Italian Panna Cotta is silky smooth and perfectly creamy, paired with a tart berry compote for a balanced, elegant dessert.",
+        "cookingTime": "15 minutes plus chilling",
+        "servings": "4 servings",
+        "ingredients": [
+            "Heavy cream 500ml",
+            "Sugar 50g",
+            "Vanilla extract 1 tsp",
+            "Gelatin 1 packet",
+            "Mixed berries 1 cup",
+            "Mint for garnish"
+        ],
+        "cookingSteps": [
+            "Step 1: Sprinkle gelatin over 2 tbsp cold water and let bloom for 5 minutes.",
+            "Step 2: Heat cream and sugar over medium heat until the sugar dissolves.",
+            "Step 3: Remove from heat, stir in gelatin and vanilla extract.",
+            "Step 4: Pour into serving glasses and refrigerate for at least 4 hours. StartTimer",
+            "Step 5: For the compote, cook berries and a bit of sugar over low heat until thickened.",
+            "Step 6: Top panna cotta with berry compote and mint before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "14",
+        "name": "Blueberry Muffins",
+        "image": "Golden blueberry muffins with plump blueberries bursting out, served warm on a rustic plate.",
+        "description": "These Blueberry Muffins are soft, fluffy, and filled with juicy blueberries in every bite. Perfect for breakfast or a sweet snack.",
+        "cookingTime": "25 minutes",
+        "servings": "12 muffins",
+        "ingredients": [
+            "Flour 250g",
+            "Baking powder 1 tbsp",
+            "Salt 1/4 tsp",
+            "Butter 100g, melted",
+            "Sugar 150g",
+            "Egg 1",
+            "Milk 120ml",
+            "Blueberries 150g"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and line a muffin tin with paper liners.",
+            "Step 2: In a bowl, combine flour, baking powder, and salt.",
+            "Step 3: In another bowl, whisk together melted butter, sugar, egg, and milk.",
+            "Step 4: Add the wet ingredients to the dry ingredients and mix until just combined.",
+            "Step 5: Fold in blueberries, then spoon batter into muffin cups.",
+            "Step 6: Bake for 20-25 minutes or until a toothpick comes out clean. StartTimer",
+            "Step 7: Let muffins cool slightly before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "15",
+        "name": "Lemon Tart",
+        "image": "A delicate lemon tart with a golden crust and smooth, glossy lemon filling, topped with whipped cream and lemon zest.",
+        "description": "This Lemon Tart is zesty and refreshing, with a crisp crust and a silky lemon filling that’s both sweet and tart.",
+        "cookingTime": "40 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Flour 200g",
+            "Butter 100g, cold",
+            "Sugar 50g",
+            "Egg yolks 2",
+            "Lemon juice 1/2 cup",
+            "Lemon zest 1 tbsp",
+            "Cream 120ml"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F).",
+            "Step 2: Mix flour and sugar, then cut in the butter until crumbly.",
+            "Step 3: Add egg yolks and mix to form a dough, then press into a tart pan.",
+            "Step 4: Bake the crust for 15 minutes. StartTimer",
+            "Step 5: For the filling, whisk together lemon juice, zest, sugar, and cream until smooth.",
+            "Step 6: Pour filling into the crust and bake for another 20 minutes until set. StartTimer",
+            "Step 7: Cool before slicing and serve with whipped cream if desired."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "16",
+        "name": "Coconut Macaroons",
+        "image": "Golden coconut macaroons on a baking sheet, with crispy edges and soft, chewy centers.",
+        "description": "These Coconut Macaroons are crispy on the outside and wonderfully chewy on the inside, with a delightful coconut flavor that melts in your mouth.",
+        "cookingTime": "25 minutes",
+        "servings": "12 macaroons",
+        "ingredients": [
+            "Shredded coconut 300g",
+            "Condensed milk 200ml",
+            "Vanilla extract 1 tsp",
+            "Egg whites 2",
+            "Salt a pinch"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 160°C (320°F) and line a baking sheet with parchment paper.",
+            "Step 2: In a large bowl, mix shredded coconut, condensed milk, and vanilla extract.",
+            "Step 3: In a separate bowl, beat egg whites and salt until stiff peaks form.",
+            "Step 4: Gently fold the egg whites into the coconut mixture until combined.",
+            "Step 5: Drop spoonfuls onto the baking sheet and bake for 20 minutes until golden brown. StartTimer",
+            "Step 6: Let cool on a wire rack before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "17",
+        "name": "Classic Éclairs",
+        "image": "Perfectly baked éclairs filled with smooth pastry cream, topped with glossy chocolate ganache.",
+        "description": "These Classic Éclairs are filled with creamy vanilla pastry cream and topped with a rich chocolate ganache for a luxurious French dessert.",
+        "cookingTime": "1 hour",
+        "servings": "8 éclairs",
+        "ingredients": [
+            "Water 125ml",
+            "Butter 60g",
+            "Salt a pinch",
+            "Flour 75g",
+            "Eggs 2",
+            "Milk 250ml",
+            "Vanilla extract 1 tsp",
+            "Sugar 50g",
+            "Chocolate 100g"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and line a baking sheet with parchment paper.",
+            "Step 2: In a pot, heat water, butter, and salt until boiling. Add flour and stir until a dough forms.",
+            "Step 3: Transfer the dough to a bowl, let cool slightly, then beat in eggs one at a time until smooth.",
+            "Step 4: Pipe the dough into éclair shapes on the baking sheet and bake for 20-25 minutes until golden. StartTimer",
+            "Step 5: For the pastry cream, heat milk and vanilla. Whisk egg yolks, sugar, and flour in a separate bowl, then add to the hot milk and stir until thickened.",
+            "Step 6: Fill the éclairs with pastry cream, then top with melted chocolate."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "18",
+        "name": "Raspberry Swirl Cheesecake",
+        "image": "A creamy cheesecake with a vibrant raspberry swirl, served as a slice with fresh raspberries on top.",
+        "description": "This Raspberry Swirl Cheesecake combines the creamy richness of classic cheesecake with a sweet and tangy raspberry swirl for a visually stunning and delicious dessert.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Cream cheese 500g",
+            "Sugar 150g",
+            "Eggs 3",
+            "Vanilla extract 1 tsp",
+            "Raspberry jam 1/4 cup",
+            "Graham crackers 150g",
+            "Butter 80g, melted"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 160°C (325°F) and grease a springform pan.",
+            "Step 2: Mix graham cracker crumbs with melted butter and press into the bottom of the pan.",
+            "Step 3: In a bowl, beat cream cheese and sugar until smooth, then add eggs one at a time and vanilla extract.",
+            "Step 4: Pour the batter over the crust, then swirl in raspberry jam using a toothpick or skewer.",
+            "Step 5: Bake for 55-60 minutes until set. StartTimer",
+            "Step 6: Cool, then refrigerate for at least 4 hours before serving."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "19",
+        "name": "Vanilla Bean Pudding",
+        "image": "A glass jar of creamy vanilla bean pudding, topped with whipped cream and a sprinkle of vanilla bean seeds.",
+        "description": "Smooth and creamy, this Vanilla Bean Pudding is infused with real vanilla bean for a rich and flavorful dessert that’s both comforting and elegant.",
+        "cookingTime": "20 minutes plus chilling",
+        "servings": "4 servings",
+        "ingredients": [
+            "Milk 500ml",
+            "Vanilla bean 1",
+            "Sugar 100g",
+            "Cornstarch 40g",
+            "Egg yolks 3",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, heat milk and vanilla bean seeds until simmering.",
+            "Step 2: In a bowl, whisk sugar, cornstarch, and egg yolks until smooth.",
+            "Step 3: Gradually add hot milk to the egg mixture, then return to the saucepan.",
+            "Step 4: Cook over medium heat, stirring, until thickened. StartTimer",
+            "Step 5: Pour into serving dishes, cover with plastic wrap, and refrigerate for 2 hours. StartTimer",
+            "Step 6: Top with whipped cream before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "20",
+        "name": "Peach Cobbler",
+        "image": "A rustic peach cobbler with a golden, biscuit-like topping and juicy, bubbly peaches underneath.",
+        "description": "This Peach Cobbler is a cozy dessert featuring sweet, juicy peaches topped with a golden biscuit-like crust. Perfect with a scoop of vanilla ice cream.",
+        "cookingTime": "45 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Peaches 5, sliced",
+            "Sugar 100g",
+            "Flour 150g",
+            "Baking powder 1 tsp",
+            "Salt a pinch",
+            "Butter 80g, melted",
+            "Milk 120ml",
+            "Cinnamon 1/2 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a baking dish.",
+            "Step 2: In a bowl, mix sliced peaches with half of the sugar and cinnamon, then spread in the baking dish.",
+            "Step 3: In another bowl, mix flour, baking powder, remaining sugar, and salt.",
+            "Step 4: Add melted butter and milk, stirring to create a batter.",
+            "Step 5: Drop spoonfuls of batter over the peaches.",
+            "Step 6: Bake for 35-40 minutes until golden and bubbly. StartTimer",
+            "Step 7: Serve warm, optionally with vanilla ice cream."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "21",
+        "name": "Chocolate Lava Cake",
+        "image": "Molten chocolate lava cake with a gooey, flowing center, topped with a dusting of powdered sugar.",
+        "description": "This rich and indulgent Chocolate Lava Cake features a warm, gooey chocolate center that flows out when cut, creating the perfect dessert for chocolate lovers.",
+        "cookingTime": "20 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Dark chocolate 100g",
+            "Butter 100g",
+            "Eggs 2",
+            "Egg yolks 2",
+            "Sugar 100g",
+            "Flour 50g",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 200°C (400°F) and grease 4 ramekins.",
+            "Step 2: Melt dark chocolate and butter together in a bowl over simmering water.",
+            "Step 3: In a separate bowl, whisk eggs, egg yolks, sugar, and vanilla extract until smooth.",
+            "Step 4: Fold the melted chocolate mixture into the egg mixture, then add flour and stir until combined.",
+            "Step 5: Pour the batter into ramekins and bake for 12-14 minutes until the edges are firm but the center is still soft. StartTimer",
+            "Step 6: Let cool for 2 minutes, then carefully invert onto plates and dust with powdered sugar before serving."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "22",
+        "name": "Tiramisu",
+        "image": "A traditional tiramisu with layers of coffee-soaked ladyfingers, creamy mascarpone filling, and a dusting of cocoa powder.",
+        "description": "This classic Italian Tiramisu features layers of espresso-soaked ladyfingers, a creamy mascarpone filling, and a delicate dusting of cocoa powder, making it a timeless favorite.",
+        "cookingTime": "30 minutes plus chilling",
+        "servings": "8 servings",
+        "ingredients": [
+            "Ladyfingers 200g",
+            "Mascarpone cheese 500g",
+            "Heavy cream 250ml",
+            "Espresso 200ml",
+            "Sugar 100g",
+            "Cocoa powder for dusting",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Brew the espresso and let it cool to room temperature.",
+            "Step 2: Whisk mascarpone cheese, sugar, and vanilla extract in a bowl until smooth.",
+            "Step 3: In another bowl, whip heavy cream to stiff peaks, then fold it into the mascarpone mixture.",
+            "Step 4: Quickly dip the ladyfingers into the cooled espresso and layer them in a dish.",
+            "Step 5: Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of dipped ladyfingers and mascarpone mixture.",
+            "Step 6: Refrigerate for at least 4 hours, then dust with cocoa powder before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "23",
+        "name": "Strawberry Shortcake",
+        "image": "A fluffy biscuit shortcake topped with fresh strawberries and whipped cream.",
+        "description": "This Strawberry Shortcake features soft, buttery biscuits layered with sweetened fresh strawberries and topped with whipped cream, perfect for any summer celebration.",
+        "cookingTime": "30 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Flour 250g",
+            "Baking powder 2 tsp",
+            "Sugar 50g",
+            "Butter 100g",
+            "Milk 120ml",
+            "Fresh strawberries 300g",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+            "Step 2: In a bowl, mix flour, baking powder, and sugar.",
+            "Step 3: Add butter and rub it in with your fingers until the mixture resembles breadcrumbs.",
+            "Step 4: Stir in milk until a dough forms, then turn it out onto a floured surface and pat it down.",
+            "Step 5: Cut out biscuits and place them on the baking sheet. Bake for 15-18 minutes until golden. StartTimer",
+            "Step 6: Slice the strawberries and sprinkle them with sugar. Once the biscuits cool, split them in half, layer with strawberries, and top with whipped cream."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "24",
+        "name": "Lemon Meringue Pie",
+        "image": "A bright and refreshing lemon meringue pie with a golden, fluffy meringue topping.",
+        "description": "This Lemon Meringue Pie has a perfectly tart lemon filling topped with a light, golden meringue that creates a delightful contrast in texture and flavor.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Pie crust 1, pre-baked",
+            "Lemon juice 120ml",
+            "Sugar 200g",
+            "Cornstarch 2 tbsp",
+            "Egg yolks 3",
+            "Butter 60g",
+            "Egg whites 3",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 175°C (350°F).",
+            "Step 2: In a saucepan, combine lemon juice, sugar, and cornstarch, and cook over medium heat until thickened.",
+            "Step 3: Whisk in egg yolks and butter, then pour into the pre-baked pie crust.",
+            "Step 4: In a separate bowl, beat egg whites to stiff peaks, adding sugar gradually to form meringue.",
+            "Step 5: Spread the meringue over the lemon filling and bake for 10-12 minutes until golden. StartTimer",
+            "Step 6: Let cool before serving."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "25",
+        "name": "Chocolate Chip Cookies",
+        "image": "Warm, chewy chocolate chip cookies with melted chocolate chunks.",
+        "description": "These classic Chocolate Chip Cookies are soft, chewy, and packed with gooey melted chocolate chunks, making them the perfect treat for any occasion.",
+        "cookingTime": "15 minutes",
+        "servings": "24 cookies",
+        "ingredients": [
+            "Flour 250g",
+            "Baking soda 1 tsp",
+            "Salt a pinch",
+            "Butter 100g",
+            "Sugar 100g",
+            "Brown sugar 100g",
+            "Eggs 2",
+            "Vanilla extract 1 tsp",
+            "Chocolate chips 200g"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and line a baking sheet with parchment paper.",
+            "Step 2: In a bowl, mix flour, baking soda, and salt.",
+            "Step 3: In a separate bowl, cream butter with both sugars until smooth.",
+            "Step 4: Beat in eggs and vanilla extract, then gradually add the dry ingredients.",
+            "Step 5: Stir in chocolate chips, then drop spoonfuls of dough onto the baking sheet.",
+            "Step 6: Bake for 10-12 minutes until golden brown. StartTimer",
+            "Step 7: Let cool before serving."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "26",
+        "name": "Panna Cotta",
+        "image": "Creamy panna cotta topped with fresh berries and a drizzle of honey.",
+        "description": "Panna Cotta is a silky, creamy Italian dessert topped with fresh berries and honey for a perfect balance of sweetness and tang.",
+        "cookingTime": "15 minutes plus chilling",
+        "servings": "4 servings",
+        "ingredients": [
+            "Heavy cream 500ml",
+            "Sugar 100g",
+            "Vanilla bean 1",
+            "Gelatin 1 tbsp",
+            "Berries for topping",
+            "Honey for drizzling"
+        ],
+        "cookingSteps": [
+            "Step 1: Heat heavy cream and sugar in a saucepan until just simmering.",
+            "Step 2: Scrape the vanilla bean seeds into the cream mixture and stir.",
+            "Step 3: Dissolve gelatin in a small amount of cold water, then add to the cream mixture and stir until dissolved.",
+            "Step 4: Pour into serving glasses and refrigerate for at least 4 hours until set. StartTimer",
+            "Step 5: Top with fresh berries and a drizzle of honey before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "27",
+        "name": "Banoffee Pie",
+        "image": "A decadent banoffee pie with layers of caramel, bananas, and whipped cream on a buttery biscuit base.",
+        "description": "Banoffee Pie is a rich and indulgent dessert with a biscuit base, sweet caramel, fresh bananas, and topped with whipped cream for the ultimate treat.",
+        "cookingTime": "30 minutes plus chilling",
+        "servings": "8 servings",
+        "ingredients": [
+            "Digestive biscuits 200g",
+            "Butter 100g",
+            "Bananas 2, sliced",
+            "Sugar 200g",
+            "Sweetened condensed milk 400g",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: Crush the digestive biscuits and mix with melted butter, then press into the bottom of a pie dish.",
+            "Step 2: In a saucepan, cook sugar and condensed milk until caramelized, then pour over the biscuit base.",
+            "Step 3: Layer sliced bananas on top of the caramel.",
+            "Step 4: Top with whipped cream and refrigerate for at least 2 hours. StartTimer",
+            "Step 5: Serve chilled."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "28",
+        "name": "Apple Crumble",
+        "image": "A warm apple crumble with a golden, buttery topping and tender cinnamon-spiced apples beneath.",
+        "description": "This Apple Crumble is filled with tender, spiced apples and topped with a golden, buttery crumble topping. Perfect with a scoop of vanilla ice cream.",
+        "cookingTime": "45 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Apples 6, peeled and sliced",
+            "Sugar 100g",
+            "Cinnamon 1 tsp",
+            "Flour 150g",
+            "Butter 100g",
+            "Brown sugar 50g"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a baking dish.",
+            "Step 2: Toss the apples with sugar and cinnamon, then spread them in the baking dish.",
+            "Step 3: In a bowl, mix flour, butter, and brown sugar to form a crumbly mixture.",
+            "Step 4: Sprinkle the crumble topping over the apples.",
+            "Step 5: Bake for 35-40 minutes until golden and bubbly. StartTimer",
+            "Step 6: Serve warm with vanilla ice cream."
+        ],
+        "category": "apple"
+    },
+    {
+        "id": "29",
+        "name": "Raspberry Sorbet",
+        "image": "A refreshing raspberry sorbet served in a bowl with fresh raspberries.",
+        "description": "This Raspberry Sorbet is a tart and refreshing frozen dessert made with fresh raspberries, perfect for cooling down on a hot day.",
+        "cookingTime": "10 minutes plus freezing",
+        "servings": "4 servings",
+        "ingredients": [
+            "Raspberries 300g",
+            "Sugar 150g",
+            "Lemon juice 1 tbsp",
+            "Water 250ml"
+        ],
+        "cookingSteps": [
+            "Step 1: Puree raspberries with sugar and lemon juice in a blender.",
+            "Step 2: Strain the mixture through a fine mesh sieve to remove the seeds.",
+            "Step 3: Add water to the raspberry puree and mix well.",
+            "Step 4: Pour into an ice cream maker and churn according to manufacturer’s instructions.",
+            "Step 5: Freeze for at least 2 hours before serving. StartTimer",
+            "Step 6: Serve in bowls with fresh raspberries."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "30",
+        "name": "Matcha Cheesecake",
+        "image": "A vibrant green matcha cheesecake with a smooth, creamy texture.",
+        "description": "This Matcha Cheesecake combines the earthy flavor of matcha with the creamy richness of cheesecake for a unique and delicious dessert.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Cream cheese 500g",
+            "Sugar 150g",
+            "Eggs 3",
+            "Vanilla extract 1 tsp",
+            "Matcha powder 2 tbsp",
+            "Graham crackers 150g",
+            "Butter 80g, melted"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 160°C (325°F) and grease a springform pan.",
+            "Step 2: Mix graham cracker crumbs with melted butter and press into the bottom of the pan.",
+            "Step 3: Beat cream cheese and sugar until smooth, then add eggs one at a time.",
+            "Step 4: Add matcha powder and vanilla extract, then pour the mixture into the pan.",
+            "Step 5: Bake for 55-60 minutes until set. StartTimer",
+            "Step 6: Cool and refrigerate for at least 4 hours before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "31",
+        "name": "Pistachio Baklava",
+        "image": "Layers of flaky filo pastry filled with a pistachio and honey filling, baked to golden perfection.",
+        "description": "A twist on the classic baklava, this version uses crunchy pistachios in the filling, complemented by a sticky honey syrup that makes each bite irresistible.",
+        "cookingTime": "45 minutes",
+        "servings": "12 pieces",
+        "ingredients": [
+            "Filo pastry 12 sheets",
+            "Pistachios 200g, chopped",
+            "Butter 100g, melted",
+            "Sugar 100g",
+            "Honey 150g",
+            "Water 50ml",
+            "Lemon juice 1 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a baking dish.",
+            "Step 2: Lay one sheet of filo pastry in the dish and brush with melted butter. Repeat with 6 more sheets.",
+            "Step 3: Spread chopped pistachios evenly over the pastry layers.",
+            "Step 4: Layer the remaining filo sheets on top, buttering each one. Cut the baklava into squares.",
+            "Step 5: Bake for 30-35 minutes until golden and crisp. StartTimer",
+            "Step 6: In a small saucepan, combine sugar, honey, water, and lemon juice. Boil for 5 minutes until syrupy.",
+            "Step 7: Pour the hot syrup over the baklava as soon as it comes out of the oven and let it soak for 10 minutes before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "32",
+        "name": "Mango Sticky Rice",
+        "image": "A bowl of creamy coconut sticky rice served with ripe mango slices.",
+        "description": "This popular Thai dessert features sticky rice soaked in sweet coconut milk, served with fresh mango slices, creating the perfect balance of sweet and savory.",
+        "cookingTime": "30 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Glutinous rice 200g",
+            "Coconut milk 200ml",
+            "Sugar 50g",
+            "Salt a pinch",
+            "Mango 2, ripe and sliced"
+        ],
+        "cookingSteps": [
+            "Step 1: Rinse the glutinous rice under cold water until the water runs clear.",
+            "Step 2: Soak the rice in water for at least 30 minutes, then steam it for about 20-25 minutes.",
+            "Step 3: In a saucepan, heat the coconut milk, sugar, and salt until the sugar dissolves.",
+            "Step 4: Once the rice is cooked, mix it with the coconut milk mixture and let it sit for 10-15 minutes to absorb the flavors.",
+            "Step 5: Serve the sticky rice with fresh mango slices on top, drizzling any leftover coconut milk sauce over the top."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "33",
+        "name": "Chocolate Avocado Mousse",
+        "image": "A smooth and creamy chocolate mousse made with ripe avocado, topped with grated dark chocolate.",
+        "description": "This creamy, rich chocolate mousse is made with avocado for a healthier take on the classic, with a silky texture and deep chocolate flavor.",
+        "cookingTime": "15 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Avocados 2, ripe",
+            "Cocoa powder 4 tbsp",
+            "Maple syrup 3 tbsp",
+            "Vanilla extract 1 tsp",
+            "Dark chocolate 100g, melted"
+        ],
+        "cookingSteps": [
+            "Step 1: Scoop the flesh from the avocados and place it in a food processor.",
+            "Step 2: Add cocoa powder, maple syrup, vanilla extract, and melted dark chocolate to the processor and blend until smooth.",
+            "Step 3: Taste and adjust sweetness, adding more syrup if necessary.",
+            "Step 4: Spoon the mousse into serving dishes and chill in the fridge for at least 1 hour.",
+            "Step 5: Garnish with grated dark chocolate or fresh berries before serving."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "34",
+        "name": "Rose Water Rice Pudding",
+        "image": "A creamy rice pudding flavored with rose water, garnished with crushed pistachios.",
+        "description": "A fragrant and creamy rice pudding flavored with rose water, topped with crushed pistachios for added texture and flavor.",
+        "cookingTime": "40 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Rice 100g, short-grain",
+            "Milk 750ml",
+            "Sugar 100g",
+            "Rose water 1 tbsp",
+            "Pistachios 50g, crushed"
+        ],
+        "cookingSteps": [
+            "Step 1: Rinse the rice under cold water and combine with milk in a saucepan.",
+            "Step 2: Cook over low heat, stirring frequently, until the rice is tender and the mixture has thickened.",
+            "Step 3: Stir in sugar and rose water, cooking for another 5-10 minutes.",
+            "Step 4: Remove from heat and let it cool slightly.",
+            "Step 5: Serve the rice pudding in bowls, garnished with crushed pistachios."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "35",
+        "name": "Churros with Chocolate Sauce",
+        "image": "Golden, crispy churros dusted with cinnamon sugar, served with a rich chocolate dipping sauce.",
+        "description": "These crispy, golden churros are coated in cinnamon sugar and served with a warm chocolate dipping sauce for a sweet, indulgent treat.",
+        "cookingTime": "30 minutes",
+        "servings": "6 churros",
+        "ingredients": [
+            "Flour 250g",
+            "Water 250ml",
+            "Butter 100g",
+            "Sugar 50g",
+            "Cinnamon 1 tsp",
+            "Eggs 2",
+            "Chocolate 200g",
+            "Heavy cream 100ml"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, bring water, butter, and sugar to a boil, then add flour and stir to form a dough.",
+            "Step 2: Let the dough cool slightly before mixing in the eggs, one at a time.",
+            "Step 3: Heat oil in a deep frying pan and pipe the dough into 6-inch lengths.",
+            "Step 4: Fry the churros until golden and crispy, about 3-4 minutes, then drain on paper towels.",
+            "Step 5: In a saucepan, melt chocolate with heavy cream to make the dipping sauce.",
+            "Step 6: Coat the churros in cinnamon sugar and serve with the warm chocolate sauce."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "36",
+        "name": "Blueberry Lemon Cheesecake Bars",
+        "image": "Creamy cheesecake bars topped with a fresh blueberry compote and a hint of lemon zest.",
+        "description": "These Blueberry Lemon Cheesecake Bars are the perfect balance of tangy lemon and sweet blueberries, all atop a rich, creamy cheesecake layer.",
+        "cookingTime": "1 hour",
+        "servings": "12 bars",
+        "ingredients": [
+            "Cream cheese 400g",
+            "Sugar 150g",
+            "Eggs 3",
+            "Lemon zest 1 tbsp",
+            "Graham cracker crumbs 200g",
+            "Butter 100g, melted",
+            "Blueberries 250g",
+            "Cornstarch 1 tbsp",
+            "Lemon juice 2 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 160°C (325°F) and grease a 9x9-inch baking dish.",
+            "Step 2: Mix graham cracker crumbs with melted butter and press into the bottom of the baking dish.",
+            "Step 3: Beat cream cheese and sugar until smooth, then add eggs one at a time, followed by lemon zest and juice.",
+            "Step 4: Pour the cheesecake mixture over the crust and bake for 30-35 minutes until set. StartTimer",
+            "Step 5: While baking, prepare the blueberry compote by cooking blueberries, sugar, and cornstarch in a saucepan over medium heat until thickened.",
+            "Step 6: Let the cheesecake cool completely, then spread the blueberry compote on top and refrigerate for 2 hours before cutting into bars."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "37",
+        "name": "Chocolate Hazelnut Tart",
+        "image": "A rich chocolate tart with a buttery hazelnut crust, topped with chopped hazelnuts.",
+        "description": "This Chocolate Hazelnut Tart features a decadent chocolate filling inside a buttery hazelnut crust, offering a perfect balance of flavors and textures.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Hazelnuts 150g, ground",
+            "Flour 100g",
+            "Butter 75g, cold",
+            "Sugar 50g",
+            "Egg yolk 1",
+            "Heavy cream 200ml",
+            "Dark chocolate 200g",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a tart pan.",
+            "Step 2: Combine ground hazelnuts, flour, butter, sugar, and egg yolk in a food processor to form the crust dough.",
+            "Step 3: Press the dough into the tart pan and bake for 15-18 minutes until golden. StartTimer",
+            "Step 4: In a saucepan, heat heavy cream until simmering, then pour over chopped dark chocolate and stir until smooth.",
+            "Step 5: Add vanilla extract to the chocolate mixture and pour it into the cooled tart shell.",
+            "Step 6: Let the tart cool at room temperature for 2 hours, then refrigerate for 1 hour before serving. Garnish with chopped hazelnuts."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "38",
+        "name": "Strawberry Shortcake Trifle",
+        "image": "Layers of fluffy cake, fresh strawberries, and whipped cream in a glass trifle dish.",
+        "description": "This Strawberry Shortcake Trifle is a layered dessert that combines light cake, juicy strawberries, and fluffy whipped cream, creating a refreshing and indulgent treat.",
+        "cookingTime": "30 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Sponge cake 200g, cubed",
+            "Strawberries 300g, sliced",
+            "Whipped cream 300ml",
+            "Sugar 50g",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Whip the cream with sugar and vanilla extract until soft peaks form.",
+            "Step 2: In a trifle dish, layer sponge cake cubes, followed by whipped cream and strawberries.",
+            "Step 3: Repeat layers until the dish is full, finishing with a layer of whipped cream and strawberries on top.",
+            "Step 4: Chill the trifle in the fridge for at least 2 hours to allow the flavors to meld together.",
+            "Step 5: Serve chilled, garnished with extra fresh strawberries on top."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "39",
+        "name": "Tiramisu in a Jar",
+        "image": "Individual servings of tiramisu layered in jars, with coffee-soaked ladyfingers and creamy mascarpone.",
+        "description": "This Tiramisu in a Jar is a portable twist on the classic Italian dessert, with layers of coffee-soaked ladyfingers and creamy mascarpone cheese.",
+        "cookingTime": "40 minutes plus chilling",
+        "servings": "4 jars",
+        "ingredients": [
+            "Ladyfingers 200g",
+            "Mascarpone cheese 250g",
+            "Heavy cream 200ml",
+            "Sugar 100g",
+            "Coffee 1 cup, cooled",
+            "Cocoa powder for dusting"
+        ],
+        "cookingSteps": [
+            "Step 1: In a mixing bowl, beat mascarpone cheese with sugar and heavy cream until smooth.",
+            "Step 2: Dip ladyfingers quickly in the cooled coffee and layer them in the bottom of 4 jars.",
+            "Step 3: Spoon a layer of the mascarpone mixture over the ladyfingers, then repeat with another layer of dipped ladyfingers and mascarpone.",
+            "Step 4: Refrigerate the jars for at least 4 hours to set. StartTimer",
+            "Step 5: Before serving, dust the top with cocoa powder."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "40",
+        "name": "Pineapple Coconut Panna Cotta",
+        "image": "Creamy panna cotta topped with a vibrant pineapple and coconut sauce.",
+        "description": "This tropical Panna Cotta combines creamy coconut milk with pineapple, creating a light and refreshing dessert perfect for summer.",
+        "cookingTime": "3 hours plus chilling",
+        "servings": "4 servings",
+        "ingredients": [
+            "Coconut milk 400ml",
+            "Heavy cream 100ml",
+            "Sugar 80g",
+            "Gelatin 2 tsp",
+            "Pineapple 200g, diced",
+            "Lime juice 1 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, heat coconut milk, heavy cream, and sugar until the sugar dissolves.",
+            "Step 2: Dissolve gelatin in a small amount of warm water and add it to the coconut mixture. Stir until smooth.",
+            "Step 3: Pour the mixture into serving cups and refrigerate for at least 3 hours to set. StartTimer",
+            "Step 4: In a separate pan, cook pineapple with lime juice until softened and slightly caramelized.",
+            "Step 5: Let the pineapple cool, then spoon it over the panna cotta before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "41",
+        "name": "Chocolate Mint Mousse",
+        "image": "A smooth and velvety chocolate mousse with a refreshing hint of mint, garnished with chocolate shavings and mint leaves.",
+        "description": "This Chocolate Mint Mousse combines rich, creamy chocolate with a refreshing minty twist. It's a decadent yet light dessert that melts in your mouth.",
+        "cookingTime": "30 minutes plus chilling",
+        "servings": "4 servings",
+        "ingredients": [
+            "Dark chocolate 200g",
+            "Heavy cream 200ml",
+            "Sugar 50g",
+            "Mint extract 1/2 tsp",
+            "Egg whites 2"
+        ],
+        "cookingSteps": [
+            "Step 1: Melt the dark chocolate in a heatproof bowl over a pot of simmering water, then let it cool slightly.",
+            "Step 2: In a separate bowl, whip the heavy cream with sugar until soft peaks form.",
+            "Step 3: In another bowl, beat the egg whites until stiff peaks form.",
+            "Step 4: Fold the melted chocolate and mint extract into the whipped cream, then gently fold in the egg whites.",
+            "Step 5: Spoon the mousse into serving cups and refrigerate for at least 2 hours to set. StartTimer",
+            "Step 6: Garnish with chocolate shavings and mint leaves before serving."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "42",
+        "name": "Caramelized Banana Fritters",
+        "image": "Golden, crispy banana fritters with a caramelized coating, served with a dusting of powdered sugar.",
+        "description": "These Caramelized Banana Fritters are crispy on the outside, with sweet and soft banana inside. The caramelized sugar coating adds a rich, indulgent finish.",
+        "cookingTime": "30 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Bananas 3, sliced",
+            "Sugar 100g",
+            "Flour 100g",
+            "Baking powder 1 tsp",
+            "Egg 1",
+            "Milk 150ml",
+            "Vegetable oil for frying"
+        ],
+        "cookingSteps": [
+            "Step 1: In a bowl, mix flour, baking powder, and a pinch of salt. Add the egg and milk to form a smooth batter.",
+            "Step 2: Heat oil in a pan over medium heat for frying.",
+            "Step 3: Dip banana slices into the batter, then fry in the hot oil until golden and crispy, about 3-4 minutes per side.",
+            "Step 4: Remove the fritters and drain on paper towels. In the same pan, melt sugar to caramelize it, then dip the fritters in the caramel.",
+            "Step 5: Serve the fritters warm, dusted with powdered sugar."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "43",
+        "name": "Mango Coconut Sorbet",
+        "image": "A refreshing and vibrant mango coconut sorbet served in a chilled bowl, garnished with fresh mango chunks.",
+        "description": "This Mango Coconut Sorbet is a tropical treat, bursting with the sweet, juicy flavor of mango and the creamy richness of coconut. It's a perfect dessert for hot days.",
+        "cookingTime": "20 minutes plus freezing",
+        "servings": "6 servings",
+        "ingredients": [
+            "Mango 2, peeled and chopped",
+            "Coconut milk 400ml",
+            "Sugar 100g",
+            "Lime juice 2 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Blend mango pieces with coconut milk, sugar, and lime juice until smooth.",
+            "Step 2: Pour the mixture into a shallow pan and place it in the freezer.",
+            "Step 3: Every 30 minutes, scrape the mixture with a fork to break up the ice crystals. Continue for 3 hours until the sorbet is frozen and fluffy.",
+            "Step 4: Serve in chilled bowls, garnished with fresh mango chunks."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "44",
+        "name": "Almond Raspberry Tart",
+        "image": "A delicate almond tart crust filled with a sweet raspberry compote and topped with toasted almond slivers.",
+        "description": "This Almond Raspberry Tart is an elegant dessert with a crisp almond crust and a fruity raspberry filling. The almond slivers add a perfect crunch.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Almond flour 150g",
+            "Butter 100g, cold",
+            "Sugar 80g",
+            "Egg 1",
+            "Raspberries 250g",
+            "Cornstarch 1 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F).",
+            "Step 2: Mix almond flour, butter, and sugar to form a dough. Press it into the base of a tart pan and bake for 15-20 minutes until golden. StartTimer",
+            "Step 3: In a saucepan, cook raspberries with sugar until they release their juices, then add cornstarch and simmer until thickened.",
+            "Step 4: Pour the raspberry compote into the cooled tart crust, spreading it evenly.",
+            "Step 5: Toast almond slivers in a dry pan and sprinkle over the tart before serving."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "45",
+        "name": "Peach Melba",
+        "image": "Peach halves topped with raspberry sauce and a scoop of vanilla ice cream, garnished with mint.",
+        "description": "Peach Melba is a classic dessert combining juicy peaches, sweet raspberry sauce, and creamy vanilla ice cream for a delightful combination of textures and flavors.",
+        "cookingTime": "25 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Peaches 4, peeled and halved",
+            "Raspberries 200g",
+            "Sugar 100g",
+            "Vanilla ice cream 4 scoops",
+            "Mint leaves for garnish"
+        ],
+        "cookingSteps": [
+            "Step 1: Blanch the peaches in boiling water for 1 minute, then peel and halve them.",
+            "Step 2: In a saucepan, cook raspberries with sugar until the sauce thickens, then strain to remove seeds.",
+            "Step 3: Place a scoop of vanilla ice cream on each peach half, then drizzle with the raspberry sauce.",
+            "Step 4: Garnish with fresh mint leaves before serving."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "46",
+        "name": "Churros with Chocolate Sauce",
+        "image": "Crispy golden churros dusted with cinnamon sugar, served with a rich chocolate dipping sauce.",
+        "description": "These homemade churros are crispy on the outside and soft on the inside, rolled in cinnamon sugar and served with a warm, velvety chocolate sauce for dipping.",
+        "cookingTime": "30 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Water 250ml",
+            "Butter 100g",
+            "Flour 200g",
+            "Eggs 2",
+            "Sugar 50g",
+            "Cinnamon 1 tsp",
+            "Dark chocolate 100g",
+            "Heavy cream 100ml"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, heat water and butter until the butter melts.",
+            "Step 2: Add the flour and stir until the mixture forms a dough.",
+            "Step 3: Remove from heat, then beat in eggs one at a time until smooth.",
+            "Step 4: Heat oil in a deep pan for frying. Pipe the dough into long strips and fry until golden brown.",
+            "Step 5: Mix sugar and cinnamon and roll the churros in the mixture.",
+            "Step 6: For the chocolate sauce, melt dark chocolate and heavy cream together until smooth, then serve as a dipping sauce with the churros."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "47",
+        "name": "Lemon Meringue Pie",
+        "image": "A classic lemon meringue pie with a flaky crust, tangy lemon filling, and a golden, fluffy meringue topping.",
+        "description": "This Lemon Meringue Pie features a perfectly tangy lemon filling encased in a buttery crust, topped with a fluffy and golden meringue for the perfect balance of sweet and sour.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Pie crust 1, pre-baked",
+            "Lemon juice 1/2 cup",
+            "Lemon zest 1 tbsp",
+            "Sugar 200g",
+            "Cornstarch 3 tbsp",
+            "Egg yolks 3",
+            "Butter 50g",
+            "Egg whites 4",
+            "Cream of tartar 1/4 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F).",
+            "Step 2: In a saucepan, combine lemon juice, lemon zest, sugar, cornstarch, and egg yolks. Cook over medium heat, stirring until thickened.",
+            "Step 3: Remove from heat, then stir in butter. Pour the mixture into the pre-baked pie crust.",
+            "Step 4: Whisk egg whites and cream of tartar until stiff peaks form, then spread over the lemon filling.",
+            "Step 5: Bake for 10-15 minutes until the meringue is golden. StartTimer",
+            "Step 6: Let the pie cool completely before serving."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "48",
+        "name": "Tiramisu Trifle",
+        "image": "Layers of coffee-soaked ladyfingers, creamy mascarpone mixture, and cocoa powder in a glass trifle bowl.",
+        "description": "A twist on the classic tiramisu, this Tiramisu Trifle is made with layers of coffee-soaked ladyfingers, rich mascarpone cream, and a dusting of cocoa powder.",
+        "cookingTime": "30 minutes plus chilling",
+        "servings": "6 servings",
+        "ingredients": [
+            "Ladyfingers 200g",
+            "Espresso 1 cup, cooled",
+            "Mascarpone cheese 250g",
+            "Heavy cream 200ml",
+            "Sugar 100g",
+            "Cocoa powder for dusting",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Dip the ladyfingers into the cooled espresso and arrange them in a trifle dish.",
+            "Step 2: In a bowl, whisk mascarpone, heavy cream, sugar, and vanilla extract until smooth.",
+            "Step 3: Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer.",
+            "Step 4: Refrigerate the trifle for at least 2 hours to set.",
+            "Step 5: Before serving, dust with cocoa powder and enjoy!"
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "49",
+        "name": "Raspberry Lemon Bars",
+        "image": "Golden-brown lemon bars with a vibrant raspberry swirl and a dusting of powdered sugar.",
+        "description": "Raspberry Lemon Bars are a perfect balance of tart lemon flavor and sweet raspberry swirl, with a buttery crust and a smooth, creamy filling.",
+        "cookingTime": "45 minutes",
+        "servings": "9 squares",
+        "ingredients": [
+            "Butter 150g, softened",
+            "Sugar 200g",
+            "Flour 200g",
+            "Eggs 3",
+            "Lemon juice 1/4 cup",
+            "Lemon zest 1 tbsp",
+            "Raspberry jam 1/4 cup",
+            "Powdered sugar for dusting"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a baking dish.",
+            "Step 2: In a bowl, combine butter, sugar, and flour to form the crust. Press the mixture into the baking dish and bake for 15-20 minutes until golden. StartTimer",
+            "Step 3: In another bowl, whisk eggs, lemon juice, lemon zest, and sugar until smooth. Pour over the baked crust.",
+            "Step 4: Drop spoonfuls of raspberry jam onto the filling and swirl with a knife.",
+            "Step 5: Bake for an additional 25-30 minutes until set. StartTimer",
+            "Step 6: Let cool, then dust with powdered sugar and cut into squares before serving."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "50",
+        "name": "Coconut Cream Pie",
+        "image": "A creamy coconut custard pie with a flaky crust, topped with whipped cream and toasted coconut flakes.",
+        "description": "This Coconut Cream Pie is filled with a rich coconut custard, topped with fluffy whipped cream and a sprinkle of toasted coconut, making it a tropical indulgence.",
+        "cookingTime": "1 hour 30 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Pie crust 1, pre-baked",
+            "Coconut milk 400ml",
+            "Sugar 150g",
+            "Cornstarch 3 tbsp",
+            "Egg yolks 4",
+            "Butter 50g",
+            "Shredded coconut 100g, toasted",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, combine coconut milk, sugar, and cornstarch. Cook over medium heat until thickened.",
+            "Step 2: In a separate bowl, whisk egg yolks and temper with the coconut mixture before adding them back into the saucepan.",
+            "Step 3: Stir in butter until smooth, then pour the custard into the pre-baked pie crust.",
+            "Step 4: Refrigerate for 2 hours to set.",
+            "Step 5: Top with whipped cream and toasted shredded coconut before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "51",
+        "name": "Chocolate Hazelnut Tart",
+        "image": "A decadent chocolate tart with a crispy hazelnut crust and rich chocolate ganache filling, garnished with crushed hazelnuts.",
+        "description": "This Chocolate Hazelnut Tart features a buttery hazelnut crust filled with a smooth, velvety chocolate ganache and topped with crunchy hazelnut pieces for an indulgent treat.",
+        "cookingTime": "1 hour",
+        "servings": "8 slices",
+        "ingredients": [
+            "Hazelnuts 100g",
+            "Butter 150g, softened",
+            "Flour 200g",
+            "Cocoa powder 2 tbsp",
+            "Sugar 50g",
+            "Egg yolk 1",
+            "Heavy cream 200ml",
+            "Dark chocolate 200g",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a tart pan.",
+            "Step 2: In a food processor, pulse hazelnuts, flour, cocoa powder, and sugar until finely ground. Add butter and egg yolk, then pulse until the dough forms.",
+            "Step 3: Press the dough into the tart pan, then bake for 15-20 minutes until golden. StartTimer",
+            "Step 4: While the crust is baking, melt the chocolate and heavy cream together in a saucepan until smooth.",
+            "Step 5: Pour the chocolate ganache into the baked crust and refrigerate for at least 2 hours to set.",
+            "Step 6: Top with crushed hazelnuts and serve."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "52",
+        "name": "Mango Sticky Rice",
+        "image": "A beautiful serving of sweet sticky rice topped with fresh mango slices and a drizzle of coconut milk.",
+        "description": "Mango Sticky Rice is a popular Thai dessert made with sweet coconut-infused sticky rice paired with ripe mango slices, creating a perfect harmony of flavors.",
+        "cookingTime": "30 minutes",
+        "servings": "4 servings",
+        "ingredients": [
+            "Sticky rice 1 cup",
+            "Coconut milk 200ml",
+            "Sugar 100g",
+            "Salt 1/4 tsp",
+            "Mango 2, peeled and sliced"
+        ],
+        "cookingSteps": [
+            "Step 1: Rinse the sticky rice under cold water, then soak in water for 30 minutes.",
+            "Step 2: Steam the rice for 20-25 minutes until tender. StartTimer",
+            "Step 3: In a saucepan, combine coconut milk, sugar, and salt, then heat until the sugar dissolves.",
+            "Step 4: Pour the coconut milk mixture over the steamed rice and let it absorb for 10 minutes.",
+            "Step 5: Serve the sticky rice with fresh mango slices and drizzle with extra coconut milk."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "53",
+        "name": "Salted Caramel Cheesecake",
+        "image": "A creamy cheesecake topped with a rich layer of homemade salted caramel and a buttery graham cracker crust.",
+        "description": "This Salted Caramel Cheesecake combines the rich and creamy texture of a classic cheesecake with the perfect balance of sweet and salty caramel topping.",
+        "cookingTime": "1 hour 30 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Cream cheese 500g",
+            "Sugar 200g",
+            "Eggs 3",
+            "Vanilla extract 1 tsp",
+            "Graham crackers 150g",
+            "Butter 100g, melted",
+            "Heavy cream 100ml",
+            "Brown sugar 150g",
+            "Sea salt 1/2 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 160°C (325°F) and grease a springform pan.",
+            "Step 2: Mix graham cracker crumbs and melted butter, then press into the bottom of the pan to form the crust.",
+            "Step 3: Beat cream cheese and sugar until smooth, then add eggs one at a time, followed by vanilla extract.",
+            "Step 4: Pour the cheesecake batter into the crust and bake for 50-60 minutes. StartTimer",
+            "Step 5: For the salted caramel, melt brown sugar in a saucepan over medium heat, then add heavy cream and sea salt. Stir until smooth.",
+            "Step 6: Let the cheesecake cool, then drizzle with salted caramel before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "54",
+        "name": "Raspberry Almond Cake",
+        "image": "A soft, moist almond cake topped with fresh raspberries and a dusting of powdered sugar.",
+        "description": "Raspberry Almond Cake is a delicate, moist almond-flavored cake topped with juicy raspberries and finished with a touch of powdered sugar for a simple yet elegant dessert.",
+        "cookingTime": "45 minutes",
+        "servings": "8 servings",
+        "ingredients": [
+            "Almond flour 200g",
+            "Butter 100g, softened",
+            "Sugar 150g",
+            "Eggs 3",
+            "Vanilla extract 1 tsp",
+            "Raspberries 150g",
+            "Baking powder 1 tsp",
+            "Powdered sugar for dusting"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a cake pan.",
+            "Step 2: Beat butter and sugar until creamy, then add eggs one at a time and vanilla extract.",
+            "Step 3: Gradually mix in almond flour and baking powder, then pour the batter into the pan.",
+            "Step 4: Gently press raspberries into the top of the batter.",
+            "Step 5: Bake for 30-35 minutes until golden and a toothpick comes out clean. StartTimer",
+            "Step 6: Cool, then dust with powdered sugar before serving."
+        ],
+        "category": "raspberry"
+    },
+    {
+        "id": "55",
+        "name": "Pumpkin Spice Donuts",
+        "image": "Warm, fluffy donuts with a golden-brown crust, topped with a sprinkle of cinnamon sugar and a pumpkin glaze.",
+        "description": "Pumpkin Spice Donuts are a seasonal favorite, filled with the cozy flavors of cinnamon, nutmeg, and pumpkin, and finished with a sweet pumpkin glaze.",
+        "cookingTime": "30 minutes",
+        "servings": "12 donuts",
+        "ingredients": [
+            "Flour 250g",
+            "Baking powder 1 tsp",
+            "Sugar 100g",
+            "Pumpkin puree 100g",
+            "Eggs 2",
+            "Milk 100ml",
+            "Cinnamon 1 tsp",
+            "Nutmeg 1/2 tsp",
+            "Butter 50g, melted",
+            "Powdered sugar for glaze"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a donut pan.",
+            "Step 2: In a bowl, mix flour, baking powder, sugar, cinnamon, and nutmeg.",
+            "Step 3: In another bowl, whisk together pumpkin puree, eggs, milk, and melted butter.",
+            "Step 4: Combine the wet and dry ingredients, then spoon the batter into the donut pan.",
+            "Step 5: Bake for 12-15 minutes until golden. StartTimer",
+            "Step 6: For the glaze, mix powdered sugar with a bit of milk and pumpkin puree. Dip the warm donuts in the glaze before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "56",
+        "name": "Lemon Meringue Pie",
+        "image": "A slice of lemon meringue pie with a golden, fluffy meringue topping and a zesty lemon filling.",
+        "description": "Lemon Meringue Pie is a classic dessert featuring a tangy lemon filling, encased in a buttery crust, and topped with a light, golden meringue.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Lemon juice 1/2 cup",
+            "Sugar 200g",
+            "Cornstarch 2 tbsp",
+            "Egg yolks 3",
+            "Butter 50g",
+            "Egg whites 3",
+            "Vanilla extract 1 tsp",
+            "Graham cracker crust 1"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 175°C (350°F) and prepare the graham cracker crust.",
+            "Step 2: In a saucepan, whisk together lemon juice, sugar, cornstarch, and egg yolks. Cook over medium heat, stirring constantly, until the mixture thickens. Remove from heat and stir in butter and vanilla.",
+            "Step 3: Pour the lemon filling into the prepared crust.",
+            "Step 4: In a clean bowl, beat egg whites until stiff peaks form, then spread over the lemon filling.",
+            "Step 5: Bake for 10-12 minutes until the meringue is golden. StartTimer",
+            "Step 6: Allow to cool before serving."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "57",
+        "name": "Chocolate Dipped Strawberries",
+        "image": "Fresh strawberries dipped in rich dark chocolate, with a glossy finish.",
+        "description": "Chocolate Dipped Strawberries are a simple yet elegant treat, combining sweet, juicy strawberries with smooth, indulgent dark chocolate.",
+        "cookingTime": "15 minutes",
+        "servings": "12 strawberries",
+        "ingredients": [
+            "Fresh strawberries 12",
+            "Dark chocolate 150g",
+            "White chocolate 50g (for drizzling)"
+        ],
+        "cookingSteps": [
+            "Step 1: Wash and dry strawberries thoroughly, leaving the stems on.",
+            "Step 2: Melt dark chocolate in a heatproof bowl over a pot of simmering water.",
+            "Step 3: Dip each strawberry into the melted chocolate, allowing excess chocolate to drip off.",
+            "Step 4: Place the dipped strawberries on a parchment-lined tray and refrigerate for 10 minutes.",
+            "Step 5: Melt white chocolate and drizzle over the dark chocolate for decoration."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "58",
+        "name": "Cinnamon Roll Cake",
+        "image": "A slice of cinnamon roll cake with a swirl of cinnamon filling and a glaze drizzled on top.",
+        "description": "Cinnamon Roll Cake combines the flavors of a cinnamon roll with the ease of a cake, offering a soft, cinnamon-swirled dessert topped with a sweet glaze.",
+        "cookingTime": "45 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Flour 250g",
+            "Sugar 150g",
+            "Baking powder 2 tsp",
+            "Eggs 2",
+            "Milk 150ml",
+            "Cinnamon 2 tsp",
+            "Butter 100g, melted",
+            "Powdered sugar for glaze"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a cake pan.",
+            "Step 2: Mix flour, sugar, and baking powder together, then add eggs, milk, and melted butter.",
+            "Step 3: In a separate bowl, combine cinnamon and sugar to make the cinnamon swirl mixture.",
+            "Step 4: Pour the cake batter into the pan, then swirl the cinnamon mixture into the batter.",
+            "Step 5: Bake for 30-35 minutes until golden. StartTimer",
+            "Step 6: Cool slightly, then drizzle with powdered sugar glaze before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "59",
+        "name": "Strawberry Shortcake",
+        "image": "A plate of strawberry shortcake with layers of fresh strawberries, whipped cream, and a soft biscuit base.",
+        "description": "Strawberry Shortcake is a light and airy dessert made with fresh strawberries, fluffy whipped cream, and a buttery biscuit base.",
+        "cookingTime": "35 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Fresh strawberries 300g, sliced",
+            "Sugar 100g",
+            "Flour 200g",
+            "Butter 100g, chilled",
+            "Baking powder 1 tbsp",
+            "Milk 100ml",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a baking sheet.",
+            "Step 2: Mix flour, baking powder, and sugar, then cut in butter until the mixture resembles coarse crumbs.",
+            "Step 3: Add milk and mix until a dough forms, then pat it into a thick layer on the baking sheet.",
+            "Step 4: Bake for 15-20 minutes until golden. StartTimer",
+            "Step 5: Slice the shortcake into pieces, then layer with strawberries and whipped cream."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "60",
+        "name": "Carrot Cake with Cream Cheese Frosting",
+        "image": "A moist slice of carrot cake topped with creamy, tangy cream cheese frosting and sprinkled with walnuts.",
+        "description": "Carrot Cake with Cream Cheese Frosting is a rich and moist dessert made with grated carrots, warm spices, and topped with a smooth, tangy cream cheese frosting.",
+        "cookingTime": "1 hour 15 minutes",
+        "servings": "10 slices",
+        "ingredients": [
+            "Carrots 200g, grated",
+            "Flour 250g",
+            "Baking powder 1 tsp",
+            "Cinnamon 1 tsp",
+            "Sugar 200g",
+            "Eggs 3",
+            "Butter 100g, melted",
+            "Cream cheese 200g, softened",
+            "Powdered sugar for frosting",
+            "Walnuts 50g, chopped"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a cake pan.",
+            "Step 2: In a bowl, mix flour, baking powder, cinnamon, and sugar. Add eggs, melted butter, and grated carrots, then mix well.",
+            "Step 3: Pour the batter into the cake pan and bake for 40-45 minutes. StartTimer",
+            "Step 4: For the frosting, beat cream cheese and powdered sugar until smooth and creamy.",
+            "Step 5: Cool the cake, then spread the frosting on top and sprinkle with chopped walnuts."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "61",
+        "name": "Churros with Chocolate Sauce",
+        "image": "Golden, crispy churros dusted with cinnamon sugar, served with a rich, dark chocolate dipping sauce.",
+        "description": "Churros are fried dough sticks, crunchy on the outside and soft on the inside, coated with cinnamon sugar, and served with a luxurious chocolate sauce.",
+        "cookingTime": "30 minutes",
+        "servings": "6 churros",
+        "ingredients": [
+            "Water 250ml",
+            "Butter 80g",
+            "Flour 200g",
+            "Sugar 50g",
+            "Egg 1",
+            "Cinnamon 2 tsp",
+            "Salt a pinch",
+            "Dark chocolate 100g",
+            "Heavy cream 100ml"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, bring water and butter to a boil. Add flour, sugar, and salt, stirring until the mixture forms a dough.",
+            "Step 2: Remove from heat and let cool for a few minutes. Beat in the egg until smooth.",
+            "Step 3: Heat oil in a deep pan and pipe the dough into long churros.",
+            "Step 4: Fry the churros until golden brown, then drain on paper towels.",
+            "Step 5: Mix cinnamon and sugar, and coat the churros.",
+            "Step 6: For the chocolate sauce, melt dark chocolate and heavy cream together until smooth. Serve with churros."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "62",
+        "name": "Tiramisu",
+        "image": "Layers of coffee-soaked ladyfingers, mascarpone cream, and a dusting of cocoa powder, served in a glass dish.",
+        "description": "Tiramisu is a classic Italian dessert made with layers of coffee-soaked ladyfingers and creamy mascarpone, topped with cocoa powder for a rich and indulgent treat.",
+        "cookingTime": "45 minutes (plus chilling)",
+        "servings": "8 servings",
+        "ingredients": [
+            "Ladyfingers 200g",
+            "Espresso 200ml, cooled",
+            "Mascarpone cheese 250g",
+            "Heavy cream 200ml",
+            "Sugar 100g",
+            "Egg yolks 3",
+            "Cocoa powder for dusting",
+            "Dark chocolate 50g, grated"
+        ],
+        "cookingSteps": [
+            "Step 1: In a bowl, whisk together egg yolks and sugar until thick and pale.",
+            "Step 2: Fold in mascarpone cheese until smooth.",
+            "Step 3: Whip heavy cream to stiff peaks and fold into the mascarpone mixture.",
+            "Step 4: Dip ladyfingers into cooled espresso and layer them in the bottom of a dish.",
+            "Step 5: Spread half of the mascarpone mixture over the ladyfingers.",
+            "Step 6: Repeat layers and refrigerate for at least 4 hours or overnight. StartTimer",
+            "Step 7: Before serving, dust with cocoa powder and grated dark chocolate."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "63",
+        "name": "Blueberry Muffins",
+        "image": "Freshly baked blueberry muffins with a golden, crumbly top and bursting with juicy blueberries.",
+        "description": "These blueberry muffins are soft and fluffy with bursts of sweet blueberries in every bite, perfect for a breakfast or a snack.",
+        "cookingTime": "25 minutes",
+        "servings": "12 muffins",
+        "ingredients": [
+            "Flour 250g",
+            "Sugar 150g",
+            "Baking powder 2 tsp",
+            "Salt 1/2 tsp",
+            "Eggs 2",
+            "Milk 120ml",
+            "Butter 80g, melted",
+            "Blueberries 200g"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a muffin tin.",
+            "Step 2: In a bowl, mix together flour, sugar, baking powder, and salt.",
+            "Step 3: In a separate bowl, whisk together eggs, milk, and melted butter.",
+            "Step 4: Combine the wet and dry ingredients, then fold in the blueberries.",
+            "Step 5: Spoon the batter into the muffin tin and bake for 20-25 minutes until golden. StartTimer",
+            "Step 6: Cool slightly before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "64",
+        "name": "No-Bake Cheesecake",
+        "image": "A no-bake cheesecake with a graham cracker crust, topped with fresh berries and a light cream topping.",
+        "description": "This no-bake cheesecake is smooth, creamy, and topped with fresh berries, making it a perfect, effortless dessert for any occasion.",
+        "cookingTime": "15 minutes (plus chilling)",
+        "servings": "8 servings",
+        "ingredients": [
+            "Cream cheese 300g, softened",
+            "Sugar 100g",
+            "Whipped cream 200ml",
+            "Graham cracker crumbs 150g",
+            "Butter 70g, melted",
+            "Vanilla extract 1 tsp",
+            "Fresh berries for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: In a bowl, mix graham cracker crumbs with melted butter, then press into the bottom of a springform pan.",
+            "Step 2: Beat cream cheese and sugar until smooth, then fold in whipped cream and vanilla extract.",
+            "Step 3: Pour the cream cheese mixture over the graham crust and smooth the top.",
+            "Step 4: Refrigerate for at least 4 hours or overnight to set. StartTimer",
+            "Step 5: Top with fresh berries before serving."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "65",
+        "name": "Pineapple Upside-Down Cake",
+        "image": "A golden pineapple upside-down cake with caramelized pineapple slices on top, served on a plate.",
+        "description": "Pineapple Upside-Down Cake is a buttery, moist cake topped with caramelized pineapple slices for a tropical and sweet treat.",
+        "cookingTime": "45 minutes",
+        "servings": "8 slices",
+        "ingredients": [
+            "Pineapple slices 8",
+            "Butter 80g",
+            "Brown sugar 100g",
+            "Flour 200g",
+            "Baking powder 1 tsp",
+            "Eggs 2",
+            "Milk 100ml",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and grease a cake pan.",
+            "Step 2: In a saucepan, melt butter and brown sugar together, then pour into the bottom of the cake pan.",
+            "Step 3: Arrange pineapple slices on top of the caramelized sugar mixture.",
+            "Step 4: In a bowl, mix flour, baking powder, eggs, milk, and vanilla to make the batter.",
+            "Step 5: Pour the batter over the pineapples and bake for 35-40 minutes. StartTimer",
+            "Step 6: Let the cake cool for 10 minutes, then flip it onto a plate to serve."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "66",
+        "name": "Lemon Poppy Seed Cake",
+        "image": "A moist lemon poppy seed cake with a tangy lemon glaze drizzled on top, garnished with lemon zest.",
+        "description": "This Lemon Poppy Seed Cake is light and airy, with the perfect balance of zesty lemon and crunchy poppy seeds, topped with a refreshing lemon glaze.",
+        "cookingTime": "45 minutes",
+        "servings": "10 slices",
+        "ingredients": [
+            "Flour 200g",
+            "Sugar 150g",
+            "Baking powder 1 tsp",
+            "Salt a pinch",
+            "Eggs 3",
+            "Butter 100g, melted",
+            "Milk 100ml",
+            "Lemon zest 1 tbsp",
+            "Poppy seeds 2 tbsp",
+            "Lemon juice 2 tbsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat the oven to 180°C (350°F) and grease a loaf pan.",
+            "Step 2: In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "Step 3: In another bowl, whisk together eggs, melted butter, milk, lemon zest, and lemon juice.",
+            "Step 4: Add the wet ingredients to the dry ingredients and stir until smooth. Fold in poppy seeds.",
+            "Step 5: Pour the batter into the loaf pan and bake for 35-40 minutes. StartTimer",
+            "Step 6: Let cool before drizzling with lemon glaze made from powdered sugar and lemon juice."
+        ],
+        "category": "lemon"
+    },
+    {
+        "id": "67",
+        "name": "Chocolate Lava Cake",
+        "image": "A rich chocolate lava cake with a molten center, served with a scoop of vanilla ice cream and a drizzle of chocolate sauce.",
+        "description": "This Chocolate Lava Cake is a decadent dessert with a gooey, molten chocolate center that oozes out when cut, perfect when paired with ice cream.",
+        "cookingTime": "20 minutes",
+        "servings": "4 cakes",
+        "ingredients": [
+            "Dark chocolate 150g",
+            "Butter 100g",
+            "Sugar 100g",
+            "Eggs 2",
+            "Egg yolks 2",
+            "Flour 50g",
+            "Vanilla extract 1 tsp"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 220°C (425°F) and grease four ramekins.",
+            "Step 2: Melt dark chocolate and butter together in a bowl over a simmering pot of water.",
+            "Step 3: In another bowl, whisk together sugar, eggs, egg yolks, and vanilla extract.",
+            "Step 4: Stir the melted chocolate mixture into the egg mixture, then fold in the flour.",
+            "Step 5: Pour the batter into the ramekins and bake for 12-14 minutes until the edges are firm but the center is still soft. StartTimer",
+            "Step 6: Serve immediately with vanilla ice cream."
+        ],
+        "category": "choco"
+    },
+    {
+        "id": "68",
+        "name": "Strawberry Shortcake",
+        "image": "A fluffy shortcake biscuit topped with sweetened strawberries and whipped cream.",
+        "description": "Strawberry Shortcake is a classic dessert with layers of light shortcake biscuits, sweet macerated strawberries, and a dollop of whipped cream.",
+        "cookingTime": "35 minutes",
+        "servings": "6 servings",
+        "ingredients": [
+            "Flour 250g",
+            "Sugar 100g",
+            "Baking powder 1 tbsp",
+            "Salt a pinch",
+            "Butter 100g, cold",
+            "Milk 100ml",
+            "Strawberries 300g, sliced",
+            "Whipped cream for topping"
+        ],
+        "cookingSteps": [
+            "Step 1: Preheat oven to 180°C (350°F) and line a baking sheet with parchment paper.",
+            "Step 2: In a large bowl, combine flour, sugar, baking powder, and salt.",
+            "Step 3: Cut in cold butter until the mixture resembles coarse crumbs.",
+            "Step 4: Add milk and mix until the dough comes together. Shape into a round and cut into 6 biscuits.",
+            "Step 5: Bake for 12-15 minutes until golden brown. StartTimer",
+            "Step 6: Slice biscuits in half, top with strawberries, and add a dollop of whipped cream."
+        ],
+        "category": "cake"
+    },
+    {
+        "id": "69",
+        "name": "Mango Sorbet",
+        "image": "A refreshing mango sorbet served in a chilled bowl with a sprig of mint.",
+        "description": "This Mango Sorbet is a tropical, refreshing dessert made with ripe mangoes, offering a sweet and tangy treat perfect for warm weather.",
+        "cookingTime": "15 minutes (plus freezing)",
+        "servings": "4 servings",
+        "ingredients": [
+            "Mango puree 400g",
+            "Sugar 100g",
+            "Lemon juice 2 tbsp",
+            "Water 100ml"
+        ],
+        "cookingSteps": [
+            "Step 1: In a saucepan, combine sugar and water and heat until the sugar dissolves.",
+            "Step 2: In a blender, combine mango puree and lemon juice. Add the sugar syrup and blend until smooth.",
+            "Step 3: Pour the mixture into a shallow dish and freeze for 4-6 hours, stirring every 30 minutes. StartTimer",
+            "Step 4: Once frozen, scrape with a fork to create a fluffy texture and serve chilled."
+        ],
+        "category": "cake"
+    }
+]
