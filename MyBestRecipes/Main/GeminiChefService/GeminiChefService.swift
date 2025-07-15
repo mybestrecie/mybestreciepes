@@ -125,8 +125,8 @@ class RecipeAIService {
         Rules for your answer:
         1. **JSON Only**: Your answer must be STRICTLY a valid JSON array. Do not add any text before or after the JSON.
         2. **JSON Structure**: Each object in the array must have the following structure:
-        - `title`: (String) The name of the dish in Russian.
-        - `description`: (String) A short (1-2 sentences), appetizing description of the dish in Russian.
+        - `title`: (String) The name of the dish in English.
+        - `description`: (String) A short (1-2 sentences), appetizing description of the dish in English.
         - `cookingTime`: (String) Approximate cooking time (e.g. "25 minutes", "1 hour").
         - `ingredients`: (Array of Strings) A list of necessary ingredients. Include both those provided by the user and any additional ingredients that may be needed (salt, pepper, oil, etc.).
         - `instructions`: (Array of Strings) Step-by-step cooking instructions. Each step is a separate element of the array.
