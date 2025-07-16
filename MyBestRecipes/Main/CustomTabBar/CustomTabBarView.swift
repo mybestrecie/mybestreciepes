@@ -122,6 +122,11 @@ struct MainTabView: View {
         }
         .ignoresSafeArea(.keyboard)
         .background(Color.appBackground.ignoresSafeArea())
+        .onAppear {
+            AppDelegate.orientationLock = .portrait
+            UIDevice.current.setValue(UIInterfaceOrientation.portrait.rawValue, forKey: "orientation")
+            UINavigationController.attemptRotationToDeviceOrientation()
+        }
     }
 }
 

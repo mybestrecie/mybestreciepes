@@ -1,6 +1,15 @@
 {
-  "originHash" : "2174eaf93f622d57be865cd78b51b72620c12528f1f0957292620977c4d69891",
+  "originHash" : "e2048cd83d9067ce6f0f2928857611d64316cd64d01cfb897e4324ee0f576fdd",
   "pins" : [
+    {
+      "identity" : "flagsmith-ios-client",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flagsmith/flagsmith-ios-client.git",
+      "state" : {
+        "revision" : "56e62da513032f58aa85fd57a5eccd0288a0fd9e",
+        "version" : "3.8.1"
+      }
+    },
     {
       "identity" : "realm-core",
       "kind" : "remoteSourceControl",
